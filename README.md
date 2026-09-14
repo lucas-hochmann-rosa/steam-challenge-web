@@ -248,7 +248,6 @@ Licenciado sob MIT. Sinta-se livre para usar, modificar e distribuir, mantendo o
 - Repositório: <https://github.com/lucas-hochmann-rosa/steam-challenge-web>
 - GitHub: <https://github.com/lucas-hochmann-rosa>
 - LinkedIn: <https://www.linkedin.com/in/lucas-hochmann-rosa>
-- E-mail: <hrlucas.dev@gmail.com>
 
 Grupo de apresentação: Lucas Hochmann Rosa, Augusto Belini Gasparetto e Maria Paula Rossetti Siqueira.
 
